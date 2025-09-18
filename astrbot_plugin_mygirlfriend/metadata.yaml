@@ -1,0 +1,10 @@
+name: astrbot_plugin_mygirlfriend
+description: "一个基于LLM的动态、拟人化主动回复插件。"
+author: "你的名字"
+version: "1.0.0"
+repo: "<你的插件仓库地址>"
+name: astrbot_plugin_mygirlfriend
+description: "一个基于LLM的动态、拟人化主动回复插件。"
+author: "kuobibulaien"
+version: "1.0.0"
+repo: "<https://github.com/kuobibulaien/astrbot_plugin_mygirlfriend>"
